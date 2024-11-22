@@ -38,4 +38,4 @@ def task_create(request):
 </html>  
     
     """
-    return HttpResponse(<!DOCTYPE html>
+    return HttpResponse("html_response ")
